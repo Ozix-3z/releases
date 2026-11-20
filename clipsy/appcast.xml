@@ -3,13 +3,13 @@
   <channel>
     <title>Clipsy</title>
     <item>
-      <title>0.1.0</title>
-      <pubDate>Fri, 20 Nov 2026 15:43:06 +0000</pubDate>
-      <sparkle:version>15</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <title>0.1.1</title>
+      <pubDate>Fri, 20 Nov 2026 15:53:38 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/Ozix-3z/releases/releases/tag/clipsy-v0.1.0</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/Ozix-3z/releases/releases/download/clipsy-v0.1.0/Clipsy-0.1.0.dmg" sparkle:edSignature="2Q7iRRVpWiwbllnZWgM01UNe3kB7K4maN2+sLMnD2cdMOrz0gVZqHxaCcKwslKqWokzmNqIzTq5/jTPPsxNWAg==" length="7739119" type="application/octet-stream"/>
+      <sparkle:releaseNotesLink>https://github.com/Ozix-3z/releases/releases/tag/clipsy-v0.1.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/Ozix-3z/releases/releases/download/clipsy-v0.1.1/Clipsy-0.1.1.dmg" sparkle:edSignature="ZNI/MFkpmNUbvVFAX3nB6MUNbFkkoSlXzH3IgUqBJxbzR0vkznTNOKC20NRVEy5QnLZ9/wHDm/bbWCbvhEt2Bg==" length="7738336" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
