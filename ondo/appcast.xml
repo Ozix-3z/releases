@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Ondo</title>
+    <item>
+      <title>1.1.0</title>
+      <pubDate>Fri, 20 Nov 2026 15:21:59 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/Ozix-3z/releases/releases/tag/ondo-v1.1.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/Ozix-3z/releases/releases/download/ondo-v1.1.0/Ondo-1.1.0.dmg" sparkle:edSignature="l1H8Ee9y7NbTy4VoPKfm6k6lai5q28h+Hi3FZnnFZ7ie7uczh0F3BbJb/va+ltq5etbfg/XYkW2EDOMZR4k6Bg==" length="2815201" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
