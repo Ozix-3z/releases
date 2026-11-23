@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 653 240" width="653" height="240">
+  <title>Clipsy</title>
+  <defs>
+    <linearGradient id="clipsy-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2A2F5C"/><stop offset="1" stop-color="#11132B"/>
+    </linearGradient>
+    <linearGradient id="clipsy-card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF8A6B"/><stop offset="1" stop-color="#FF4F86"/>
+    </linearGradient>
+    <linearGradient id="clipsy-sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".42"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="clipsy-rim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".7"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".05"/>
+    </linearGradient>
+  </defs>
+  <g transform="scale(0.234375)">
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#clipsy-bg)"/>
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#clipsy-sheen)" opacity=".35"/>
+  <rect x="282" y="262" width="460" height="330" rx="64" fill="#FFFFFF" fill-opacity=".14" stroke="#FFFFFF" stroke-opacity=".22" stroke-width="6"/>
+  <rect x="250" y="330" width="524" height="350" rx="70" fill="#FFFFFF" fill-opacity=".2" stroke="#FFFFFF" stroke-opacity=".3" stroke-width="6"/>
+  <rect x="214" y="410" width="596" height="384" rx="78" fill="url(#clipsy-card)"/>
+  <rect x="214" y="410" width="596" height="384" rx="78" fill="url(#clipsy-sheen)"/>
+  <rect x="217" y="413" width="590" height="378" rx="75" fill="none" stroke="url(#clipsy-rim)" stroke-width="6"/>
+  <rect x="286" y="500" width="300" height="44" rx="22" fill="#FFFFFF" fill-opacity=".92"/>
+  <rect x="286" y="580" width="420" height="44" rx="22" fill="#FFFFFF" fill-opacity=".6"/>
+  <rect x="286" y="660" width="220" height="44" rx="22" fill="#FFFFFF" fill-opacity=".6"/>
+  <rect x="540" y="652" width="16" height="60" rx="8" fill="#FFFFFF"/>
+  </g>
+  <path fill="#1B1A24" transform="translate(246 28.61) scale(0.13)" d="M319 989Q248 989 195.5 965.5Q143 942 108.0 902.0Q73 862 56.0 811.5Q39 761 39 707V688Q39 632 57.0 580.5Q75 529 110.0 489.0Q145 449 197.5 426.0Q250 403 318 403Q392 403 449.0 431.5Q506 460 540.0 511.0Q574 562 578 628H421Q417 591 391.5 565.5Q366 540 318 540Q278 540 251.5 560.0Q225 580 212.0 615.0Q199 650 199 698Q199 742 211.0 777.5Q223 813 249.5 832.5Q276 852 319 852Q351 852 373.5 840.5Q396 829 409.5 808.5Q423 788 426 761H582Q579 829 544.0 880.5Q509 932 451.0 960.5Q393 989 319 989Z M681.0 970V240H842.0V970ZM616.0 358V240H842.0V358Z M1005.0 970V422H1165.0V970ZM932.0 540V422H1165.0V540ZM1067.0 368Q1022.0 368 1000.5 344.5Q979.0 321 979.0 285Q979.0 248 1000.5 224.5Q1022.0 201 1067.0 201Q1112.0 201 1133.5 224.5Q1155.0 248 1155.0 285Q1155.0 321 1133.5 344.5Q1112.0 368 1067.0 368Z M1303.0 1170V422H1430.0V659L1413.0 658Q1417.0 576 1447.0 519.5Q1477.0 463 1528.0 434.5Q1579.0 406 1643.0 406Q1700.0 406 1746.5 427.0Q1793.0 448 1826.5 485.5Q1860.0 523 1877.5 573.5Q1895.0 624 1895.0 684V707Q1895.0 766 1878.0 817.5Q1861.0 869 1828.5 907.0Q1796.0 945 1749.5 966.5Q1703.0 988 1643.0 988Q1581.0 988 1531.5 962.5Q1482.0 937 1452.0 884.5Q1422.0 832 1419.0 751L1463.0 811V1170ZM1598.0 854Q1639.0 854 1669.5 834.0Q1700.0 814 1717.0 778.0Q1734.0 742 1734.0 695Q1734.0 648 1717.0 613.0Q1700.0 578 1670.0 558.5Q1640.0 539 1598.0 539Q1562.0 539 1530.0 556.0Q1498.0 573 1478.5 604.5Q1459.0 636 1459.0 681V718Q1459.0 761 1479.5 791.5Q1500.0 822 1532.0 838.0Q1564.0 854 1598.0 854Z M2204.0 987Q2087.0 987 2021.0 939.0Q1955.0 891 1951.0 804H2093.0Q2097.0 830 2124.5 850.5Q2152.0 871 2207.0 871Q2249.0 871 2276.5 856.5Q2304.0 842 2304.0 815Q2304.0 791 2283.0 776.5Q2262.0 762 2208.0 756L2165.0 752Q2066.0 742 2016.5 697.0Q1967.0 652 1967.0 582Q1967.0 524 1996.0 485.0Q2025.0 446 2076.5 426.0Q2128.0 406 2194.0 406Q2300.0 406 2365.0 452.5Q2430.0 499 2433.0 587H2291.0Q2287.0 560 2263.0 541.5Q2239.0 523 2192.0 523Q2155.0 523 2133.0 537.0Q2111.0 551 2111.0 575Q2111.0 598 2130.0 610.0Q2149.0 622 2192.0 627L2235.0 631Q2336.0 642 2392.0 687.0Q2448.0 732 2448.0 808Q2448.0 863 2418.0 903.5Q2388.0 944 2333.0 965.5Q2278.0 987 2204.0 987Z M2536.0 1187V1051H2650.0Q2676.0 1051 2694.0 1044.5Q2712.0 1038 2723.0 1023.0Q2734.0 1008 2741.0 982L2876.0 422H3028.0L2875.0 1014Q2859.0 1078 2830.5 1116.0Q2802.0 1154 2754.5 1170.5Q2707.0 1187 2634.0 1187ZM2708.0 958V833H2824.0V958ZM2642.0 958 2474.0 422H2635.0L2794.0 958Z"/>
+</svg>
