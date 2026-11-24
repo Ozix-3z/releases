@@ -3,13 +3,13 @@
   <channel>
     <title>Ondo</title>
     <item>
-      <title>1.5.0</title>
-      <pubDate>Tue, 24 Nov 2026 19:30:27 +0000</pubDate>
-      <sparkle:version>38</sparkle:version>
-      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <title>1.6.0</title>
+      <pubDate>Tue, 24 Nov 2026 21:41:15 +0000</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/Ozix-3z/releases/releases/tag/ondo-v1.5.0</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/Ozix-3z/releases/releases/download/ondo-v1.5.0/Ondo-1.5.0.dmg" sparkle:edSignature="Bfvh9Owd7nixvyya5SXEcc48lwvrZUJXrN858g9FwmeZBTZBR+WEFztBvTTRDkG2MtoZ+9cw/ExRJ5K404UBCQ==" length="2564240" type="application/octet-stream"/>
+      <sparkle:releaseNotesLink>https://github.com/Ozix-3z/releases/releases/tag/ondo-v1.6.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/Ozix-3z/releases/releases/download/ondo-v1.6.0/Ondo-1.6.0.dmg" sparkle:edSignature="1JU6jR/ngvDBqWyYblzR8068q1XxK5KRPGURI3i3SyYNOgfskHasSfIMHMFfJ+lanBxyIjqY3qT5fbQX8Ok8Ag==" length="2666638" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
